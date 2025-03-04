@@ -21,7 +21,7 @@ export default function Hero() {
       </div>
 
       {/* Right part */}
-      <div className="h-full w-1/2 max-xl:mt-4   max-xl:mx-60 max-md:mx-20">
+      <div className="h-full w-1/2 max-xl:mt-4 max-xl:mx-60 max-md:mx-20">
         <img src="https://media.istockphoto.com/id/171224469/photo/canvas-shoes.jpg?s=612x612&w=0&k=20&c=oD5A61xxgna-0WNafNcZxySSwCiEnUCs5wiDJVfb2tQ=" className='h-full' alt="Shoe image" />
       </div>
 
